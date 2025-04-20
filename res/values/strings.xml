@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Management</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="img1">img1</string>
+    <string name="man_txt">مدیریت</string>
+    <string name="mang_txt">با اپلیکیشن مدیریت کارهاتو مدیریت کن</string>
+    <string name="txt_management">مدیریت وظایف</string>
+    <string name="txt_no">انجام نشده</string>
+    <string name="complate">کار های انجام شده</string>
+    <string name="todo">TODO</string>
+    <string name="add_car">اضافه کردن وظیفه</string>
+    <string name="hint">وظیفه را وارد کنید</string>
+    <string name="save">ذخیره کردن</string>
+    <string name="cancel">منصرف شدن</string>
+    <string name="txt_yes">انجام شده</string>
+</resources>
